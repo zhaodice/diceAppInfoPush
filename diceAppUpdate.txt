@@ -1,5 +1,4 @@
-#update info start#
-url_android=https://gitee.com/zhaodice/appupdate/raw/master/mirai-zhaodice-0.1.0-android.jar
-url_computer=https://gitee.com/zhaodice/appupdate/raw/master/mirai-zhao.jar
-md5=xxxx
-#update info end#
+#android_jar_url#https://gitee.com/zhaodice/appupdate/raw/master/mirai-zhaodice-0.1.0-android.jar#end#
+#computer_jar_url#https://gitee.com/zhaodice/appupdate/raw/master/mirai-zhao.jar#end#
+#android_jar_md5#xxxxxxxxxxxxxxxxxx#end#
+#computer_jar_md5#xxxxxxxxxxxxxxxxxx#end#
