@@ -1,0 +1,4 @@
+#update info start#
+url=https://gitee.com/zhaodice/appupdate/raw/master/mirai-zhaodice-0.1.0-android.jar
+md5=xxxx
+#update info end#
