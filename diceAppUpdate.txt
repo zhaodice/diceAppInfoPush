@@ -1,4 +1,4 @@
 #android_jar_url#https://gitee.com/zhaodice/appupdate/raw/master/mirai-zhaodice-0.1.0-android.jar#end#
 #computer_jar_url#https://gitee.com/zhaodice/appupdate/raw/master/mirai-zhao.jar#end#
-#android_jar_md5#xxxxxxxxxxxxxxxxxx#end#
-#computer_jar_md5#xxxxxxxxxxxxxxxxxx#end#
+#android_jar_md5#BF218544C1530AAFA4178EC6139DAFBE#end#
+#computer_jar_md5#8D3C7046CC6C1B06780CE8EB9BB7DFF9#end#
