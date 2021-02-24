@@ -1,1 +1,1 @@
-#to#http://d52227c0.nat.s100.vip/appupdate/diceAppUpdate.txt#end#
+#to#https://gitee.com/zhaodice/appupdate/blob/master/diceAppUpdate.txt#end#
